@@ -1,3 +1,3 @@
-swddsdThis is my first ReadMe for the ALX devop program.
-12
+swddsThis is my first ReadMe for the ALX devop program.
+
 ere
